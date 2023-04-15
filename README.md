@@ -25,11 +25,11 @@ Users should be able to:
 
 #### On Desktop screens:
 
-![screenshot](./screenshot_desktop.png)
+![screenshot](./screenshot-desktop.png)
 
 #### On Mobile screens:
 
-![screenshot](./screenshot_mobile.png)
+![screenshot](./screenshot-mobile.png)
 
 ### Links
 
