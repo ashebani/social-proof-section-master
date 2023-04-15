@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub)
-- Live Site URL: (https://nft-preview-card-component-gamma-eight.vercel.app/)
+- Live Site URL: (https://social-proof-section-master-pink-chi.vercel.app/)
 
 ## My process
 
